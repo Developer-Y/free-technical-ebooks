@@ -9,23 +9,31 @@
 Table of Contents
 ------------------------------
 
+- [Computer Science](#computer-science)
 - [Probability and Statistics](#probability-and-statistics)
 - [Machine Learning](#machine-learning)
 
 Books
 ------------------------------
+### Computer Science
 
+- [The Little Book of Semaphores - Allen B. Downey](https://greenteapress.com/wp/semaphores/)
+- [Site Reliability Engineering - Google](https://landing.google.com/sre/sre-book/toc/)
+
+------------------------------
 ### Probability and Statistics
 
 - [Introduction to Proability 2nd edition - Blitzstein and Hwang](http://probabilitybook.net/)
 - [Prob 140 Textbook - UC Berkeley](http://prob140.org/textbook/README.html)
+- [OpenIntro Statistics](https://www.openintro.org/book/os/)
 
 ------------------------------
 
 ### Machine Learning
 
 - [Pattern Recognition and Machine Learning - Christopher Bishop](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
-- [Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/)
 - [Dive into Deep Learning](http://d2l.ai/index.html)
 - [Computational and Inferential Thinking - Ani Adhikari and John DeNero](https://www.inferentialthinking.com/chapters/intro)
+- [Natural Language Processing with Python](https://www.nltk.org/book/)
