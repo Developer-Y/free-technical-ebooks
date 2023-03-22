@@ -38,3 +38,9 @@ Books
 - [Computational and Inferential Thinking - Ani Adhikari and John DeNero](https://www.inferentialthinking.com/chapters/intro)
 - [Natural Language Processing with Python](https://www.nltk.org/book/)
 - [Eisenstein NLP Notes - Gatech](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+------------------------------
+
+### Computer Vision
+
+- [Computer Vision: Algorithms and Applications, 2nd ed. - Richard Szeliski](https://szeliski.org/Book/) ([1st Edition](https://szeliski.org/Book/1stEdition.htm))
