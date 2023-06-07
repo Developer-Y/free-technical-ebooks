@@ -32,12 +32,20 @@ Books
 ### Machine Learning
 
 - [Pattern Recognition and Machine Learning - Christopher Bishop](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
+- [An Introduction to Statistical Learning](https://www.statlearning.com/)
+- [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 - [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/)
 - [Dive into Deep Learning](http://d2l.ai/index.html)
 - [Computational and Inferential Thinking - Ani Adhikari and John DeNero](https://www.inferentialthinking.com/chapters/intro)
 - [Natural Language Processing with Python](https://www.nltk.org/book/)
 - [Eisenstein NLP Notes - Gatech](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+------------------------------
+
+### Optimization
+
+- [ALGORITHMS FOR OPTIMIZATION - MYKEL J. KOCHENDERFER AND TIM A. WHEELER](https://algorithmsbook.com/optimization/)
 
 ------------------------------
 
