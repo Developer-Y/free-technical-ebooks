@@ -46,6 +46,8 @@ Books
 ### Optimization
 
 - [ALGORITHMS FOR OPTIMIZATION - MYKEL J. KOCHENDERFER AND TIM A. WHEELER](https://algorithmsbook.com/optimization/)
+- [Engineering Design Optimization by Joaquim Martins and Andrew Ning](http://websites.umich.edu/~mdolaboratory/pdf/Martins2021.pdf)
+- [Convex Optimization - Boyd](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 ------------------------------
 
