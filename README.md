@@ -37,6 +37,7 @@ Books
 - [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/)
 - [Dive into Deep Learning](http://d2l.ai/index.html)
+- [ALGORITHMS FOR DECISION MAKING](https://algorithmsbook.com/)
 - [High-Dimensional Data Analysis with Low-Dimensional Models, John Wright and Yi Ma](https://book-wright-ma.github.io/)
 - [Computational and Inferential Thinking - Ani Adhikari and John DeNero](https://www.inferentialthinking.com/chapters/intro)
 - [Natural Language Processing with Python](https://www.nltk.org/book/)
