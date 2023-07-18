@@ -26,6 +26,7 @@ Books
 - [Introduction to Proability 2nd edition - Blitzstein and Hwang](http://probabilitybook.net/)
 - [Prob 140 Textbook - UC Berkeley](http://prob140.org/textbook/README.html)
 - [OpenIntro Statistics](https://www.openintro.org/book/os/)
+- [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html)
 
 ------------------------------
 
@@ -42,6 +43,7 @@ Books
 - [Computational and Inferential Thinking - Ani Adhikari and John DeNero](https://www.inferentialthinking.com/chapters/intro)
 - [Natural Language Processing with Python](https://www.nltk.org/book/)
 - [Eisenstein NLP Notes - Gatech](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+- [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)
 
 ------------------------------
 
