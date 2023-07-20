@@ -27,6 +27,8 @@ Books
 - [Prob 140 Textbook - UC Berkeley](http://prob140.org/textbook/README.html)
 - [OpenIntro Statistics](https://www.openintro.org/book/os/)
 - [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html)
+- [Bayesian Data Analysis, by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf)
+- [Statistical Thinking for the 21st Century - Russell A. Poldrack](https://statsthinking21.github.io/statsthinking21-core-site/)
 
 ------------------------------
 
