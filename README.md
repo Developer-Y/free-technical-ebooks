@@ -17,6 +17,7 @@ Books
 ------------------------------
 ### Computer Science
 
+- [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [The Little Book of Semaphores - Allen B. Downey](https://greenteapress.com/wp/semaphores/)
 - [Site Reliability Engineering - Google](https://landing.google.com/sre/sre-book/toc/)
 
