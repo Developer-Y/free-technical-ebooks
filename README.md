@@ -30,6 +30,7 @@ Books
 - [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html)
 - [Bayesian Data Analysis, by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf)
 - [Statistical Thinking for the 21st Century - Russell A. Poldrack](https://statsthinking21.github.io/statsthinking21-core-site/)
+- [Forecasting: Principles and Practice (3rd ed) by Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp3/)
 
 ------------------------------
 
@@ -38,6 +39,8 @@ Books
 - [Pattern Recognition and Machine Learning - Christopher Bishop](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
+- [Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html)
+- [Probabilistic Machine Learning: Advanced Topics by Kevin Patrick Murphy](https://probml.github.io/pml-book/book2.html)
 - [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/)
 - [Dive into Deep Learning](http://d2l.ai/index.html)
