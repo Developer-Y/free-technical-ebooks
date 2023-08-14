@@ -50,6 +50,7 @@ Books
 - [Natural Language Processing with Python](https://www.nltk.org/book/)
 - [Eisenstein NLP Notes - Gatech](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 - [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)
+- [Computer Age Statistical Inference](https://hastie.su.domains/CASI_files/PDF/casi.pdf)
 
 ------------------------------
 
