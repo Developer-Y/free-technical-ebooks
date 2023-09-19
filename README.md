@@ -3,6 +3,7 @@
 **Introduction**
 
 - Please add pull request only for books that are made freely available by their authors or publishers. If author or publisher has not provided consent, then those books will not be added to this list.
+- Please prioritize quality over quantity while creating PR.
 
 ------------------------------
 
