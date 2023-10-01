@@ -13,15 +13,18 @@ Table of Contents
 - [Computer Science](#computer-science)
 - [Probability and Statistics](#probability-and-statistics)
 - [Machine Learning](#machine-learning)
+- [Optimization](#optimization)
+- [Math](#math)
 
 Books
 ------------------------------
 ### Computer Science
 
 - [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
-- [The Little Book of Semaphores - Allen B. Downey](https://greenteapress.com/wp/semaphores/)
+- [Computer Vision: Algorithms and Applications, 2nd ed. - Richard Szeliski](https://szeliski.org/Book/) ([1st Edition](https://szeliski.org/Book/1stEdition.htm))
 - [Site Reliability Engineering - Google](https://landing.google.com/sre/sre-book/toc/)
-
+- [The Little Book of Semaphores - Allen B. Downey](https://greenteapress.com/wp/semaphores/)
+  
 ------------------------------
 ### Probability and Statistics
 
@@ -34,6 +37,9 @@ Books
 - [Forecasting: Principles and Practice (3rd ed) by Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp3/)
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
+- [Algorithmic High-Dimensional Robust Statistics](https://sites.google.com/view/ars-book/home/book-download)
+- [Y. Polyanskiy and Y. Wu. "Information Theory: From Coding to Learning](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf)
+- [Quantum Computing for the Quantum Curious](https://link.springer.com/content/pdf/10.1007/978-3-030-61601-4.pdf)
 
 ------------------------------
 
@@ -54,17 +60,26 @@ Books
 - [Eisenstein NLP Notes - Gatech](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 - [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf)
 - [Computer Age Statistical Inference](https://hastie.su.domains/CASI_files/PDF/casi.pdf)
+- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
+- [Learning Theory from First Principles by Francis Bach](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
+- [Computational Topology for Data Analysis](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html)
+- [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
+- [Bayesian models of perception and action](https://www.cns.nyu.edu/malab/bayesianbook.html)
 
 ------------------------------
 
 ### Optimization
 
 - [ALGORITHMS FOR OPTIMIZATION - MYKEL J. KOCHENDERFER AND TIM A. WHEELER](https://algorithmsbook.com/optimization/)
-- [Engineering Design Optimization by Joaquim Martins and Andrew Ning](http://websites.umich.edu/~mdolaboratory/pdf/Martins2021.pdf)
+- [An introduction to Optimization on smooth manifolds (with book) - EPFL](https://www.nicolasboumal.net/book/)
 - [Convex Optimization - Boyd](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+- [Engineering Design Optimization by Joaquim Martins and Andrew Ning](http://websites.umich.edu/~mdolaboratory/pdf/Martins2021.pdf)
+- [Optimization for Modern Data Analysis - Benjamin Recht and Stephen J. Wright](https://people.eecs.berkeley.edu/~brecht/opt4ml_book/)
 
 ------------------------------
 
-### Computer Vision
+### Math
 
-- [Computer Vision: Algorithms and Applications, 2nd ed. - Richard Szeliski](https://szeliski.org/Book/) ([1st Edition](https://szeliski.org/Book/1stEdition.htm))
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+
+
