@@ -32,6 +32,7 @@ Books
 - [Algorithmic High-Dimensional Robust Statistics](https://sites.google.com/view/ars-book/home/book-download)
 - [Bayesian Data Analysis, by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf)
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
+- [Causal Inference - The Mixtape](https://mixtape.scunning.com/)
 - [Causal Inference: What If - Miguel A. Hern´an, James M. Robins](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2023/07/hernanrobins_WhatIf_19jul23.pdf)
 - [Elements of Causal Inference - Peters](https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf)
 - [Forecasting: Principles and Practice (3rd ed) by Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp3/)
