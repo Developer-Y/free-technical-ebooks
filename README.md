@@ -32,17 +32,20 @@ Books
 - [Algorithmic High-Dimensional Robust Statistics](https://sites.google.com/view/ars-book/home/book-download)
 - [Bayesian Data Analysis, by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf)
 - [Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
+- [Causal Inference: What If - Miguel A. Hern´an, James M. Robins](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2023/07/hernanrobins_WhatIf_19jul23.pdf)
+- [Elements of Causal Inference - Peters](https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf)
 - [Forecasting: Principles and Practice (3rd ed) by Rob J Hyndman and George Athanasopoulos](https://otexts.com/fpp3/)
 - [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html)
 - [Information Theory: From Coding to Learning by Y. Polyanskiy and Y. Wu](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf)
+- [Introduction to Causal Inference from a Machine Learning Perspective - Brady Neal](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
 - [Introduction to Proability 2nd edition - Blitzstein and Hwang](http://probabilitybook.net/)
 - [OpenIntro Statistics](https://www.openintro.org/book/os/)
 - [Prob 140 Textbook - UC Berkeley](http://prob140.org/textbook/README.html)
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [Statistical Thinking for the 21st Century - Russell A. Poldrack](https://statsthinking21.github.io/statsthinking21-core-site/)
-- [Causal Inference: What If - Miguel A. Hern´an, James M. Robins](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2023/07/hernanrobins_WhatIf_19jul23.pdf)
-- [Introduction to Causal Inference from a Machine Learning Perspective - Brady Neal](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
-- [Elements of Causal Inference - Peters](https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf)
+
+
+
 
 ------------------------------
 
