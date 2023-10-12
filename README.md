@@ -1,4 +1,4 @@
-# Collection of free online ebooks.
+# Collection of free online ebooks
 
 **Introduction**
 
@@ -40,6 +40,9 @@ Books
 - [Prob 140 Textbook - UC Berkeley](http://prob140.org/textbook/README.html)
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [Statistical Thinking for the 21st Century - Russell A. Poldrack](https://statsthinking21.github.io/statsthinking21-core-site/)
+- [Causal Inference: What If - Miguel A. Hern´an, James M. Robins](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2023/07/hernanrobins_WhatIf_19jul23.pdf)
+- [Introduction to Causal Inference from a Machine Learning Perspective - Brady Neal](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf)
+- [Elements of Causal Inference - Peters](https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf)
 
 ------------------------------
 
