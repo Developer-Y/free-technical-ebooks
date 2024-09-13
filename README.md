@@ -18,6 +18,9 @@ Table of Contents
 
 Books
 ------------------------------
+
+- [Frank Nielsen - Curated list of many great CS/IT/ML/AI books](https://franknielsen.github.io/Books/CuratedBookLists.html)
+
 ### Computer Science
 
 - [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
