@@ -15,6 +15,7 @@ Table of Contents
 - [Machine Learning](#machine-learning)
 - [Optimization](#optimization)
 - [Math](#math)
+- [Physics](#physics)
 
 Books
 ------------------------------
@@ -87,8 +88,18 @@ Books
 
 ------------------------------
 
+
 ### Math
 
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 
+------------------------------
 
+### Physics
+
+- [Feynman Lectures on Physics - Caltech](https://www.feynmanlectures.caltech.edu/)
+- [An Introduction to Modern Computational Physics](https://bkclark.github.io/IntroductionToComputationalPhysics/intro.html)
+- [Data Analysis for Physics](https://illinois-dap.github.io/DataAnalysisForPhysicists/intro.html)
+
+
+------------------------------
