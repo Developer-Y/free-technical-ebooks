@@ -29,6 +29,11 @@ Books
 - [Quantum Computing for the Quantum Curious](https://link.springer.com/content/pdf/10.1007/978-3-030-61601-4.pdf)
 - [Site Reliability Engineering - Google](https://landing.google.com/sre/sre-book/toc/)
 - [The Little Book of Semaphores - Allen B. Downey](https://greenteapress.com/wp/semaphores/)
+- [Software-Defined Networks: A Systems Approach](https://sdn.systemsapproach.org/)
+- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/)
+- [Edge Cloud Operations: A Systems Approach](https://ops.systemsapproach.org/)
+- [Private 5G: A Systems Approach](https://5g.systemsapproach.org/)
+- [TCP Congestion Control: A Systems Approach](https://tcpcc.systemsapproach.org/)
   
 ------------------------------
 ### Probability and Statistics
