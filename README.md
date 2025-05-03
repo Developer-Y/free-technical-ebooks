@@ -34,6 +34,7 @@ Books
 - [Edge Cloud Operations: A Systems Approach](https://ops.systemsapproach.org/)
 - [Private 5G: A Systems Approach](https://5g.systemsapproach.org/)
 - [TCP Congestion Control: A Systems Approach](https://tcpcc.systemsapproach.org/)
+- [Introduction to Autonomous Robots: Mechanisms, Sensors, Actuators, and Algorithms - Nikolaus Correll, Bradley Hayes, Christoffer Heckman and Alessandro Roncone](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
   
 ------------------------------
 ### Probability and Statistics
