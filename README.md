@@ -35,6 +35,7 @@ Books
 - [Private 5G: A Systems Approach](https://5g.systemsapproach.org/)
 - [TCP Congestion Control: A Systems Approach](https://tcpcc.systemsapproach.org/)
 - [Introduction to Autonomous Robots: Mechanisms, Sensors, Actuators, and Algorithms - Nikolaus Correll, Bradley Hayes, Christoffer Heckman and Alessandro Roncone](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
+- [Introduction to Quantum Information Science by Artur Ekert, Timothy Hosgood, Alastair Kay, Chiara Macchiavello](https://qubit.guide/) ([PDF](https://qubit.guide/qubit_guide.pdf))
   
 ------------------------------
 ### Probability and Statistics
