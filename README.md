@@ -82,6 +82,10 @@ Books
 - [Probabilistic Machine Learning: An Introduction by Kevin Patrick Murphy](https://probml.github.io/pml-book/book1.html)
 - [Probabilistic Machine Learning: Advanced Topics by Kevin Patrick Murphy](https://probml.github.io/pml-book/book2.html)
 - [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+- [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+- [Algorithms for Reinforcement Learning - Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+- [Control Systems and Reinforcement Learning - Sean Meyn - UFL](https://meyn.ece.ufl.edu/control-systems-and-reinforcement-learning/)
 
 ------------------------------
 
