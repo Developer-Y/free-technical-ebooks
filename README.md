@@ -36,6 +36,12 @@ Books
 - [TCP Congestion Control: A Systems Approach](https://tcpcc.systemsapproach.org/)
 - [Introduction to Autonomous Robots: Mechanisms, Sensors, Actuators, and Algorithms - Nikolaus Correll, Bradley Hayes, Christoffer Heckman and Alessandro Roncone](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
 - [Introduction to Quantum Information Science by Artur Ekert, Timothy Hosgood, Alastair Kay, Chiara Macchiavello](https://qubit.guide/) ([PDF](https://qubit.guide/qubit_guide.pdf))
+- [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
+- [Programming Languages: Application and Interpretation - Shriram Krishnamurthi](https://cs.brown.edu/courses/cs173/2012/book/)
+- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+- [Information Theory - From Coding to Learning](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf)
   
 ------------------------------
 ### Probability and Statistics
@@ -86,6 +92,19 @@ Books
 - [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 - [Algorithms for Reinforcement Learning - Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 - [Control Systems and Reinforcement Learning - Sean Meyn - UFL](https://meyn.ece.ufl.edu/control-systems-and-reinforcement-learning/)
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [Computer Vision: Models, Learning, and Inference](https://computervisionmodels.com/lander)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+- [Machine Learning in Production: From Models to Products - Christian Kästner, CMU](https://mlip-cmu.github.io/book/)
+- [Deep Learning for Coders with Fastai & PyTorch](https://fastai.github.io/fastbook2e/)
+- [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
+- [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+- [Multimodal Deep Learning](https://arxiv.org/pdf/2301.04856)
+- [Deep Reinforcement Learning - Aske Plaat](https://arxiv.org/pdf/2201.02135)
+- [Speech and Language Processing - Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
+- [Algebra, Topology, Differential Calculus, and Optimization Theory](https://www.cis.upenn.edu/~jean/math-deep.pdf)
+- [Principles and Practice of Deep Representation Learning](https://ma-lab-berkeley.github.io/deep-representation-learning-book/)
 
 ------------------------------
 
@@ -103,11 +122,17 @@ Books
 ### Math
 
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Linear Algebra - Jim Hefferon](https://hefferon.net/linearalgebra/)
+- [Introduction to Probability for Data Science - Stanley H. Chan](https://probability4datascience.com/)
+- [An introduction to Optimization on smooth manifolds](https://www.nicolasboumal.net/book/)
+- [Mathematical Methods in Data Science by Sebastian Roch](https://mmids-textbook.github.io/index.html)
 
 ------------------------------
 
 ### Physics
 
+- [Statistical Machine Learning for Astronomy -- A Textbook - Yuan-Sen Ting](https://arxiv.org/abs/2506.12230)
+- [Machine Learning, Statistics, and Data Mining for Heliophysics - Monica Bobra and James Mason](https://helioml.org/Introduction/title.html)
 - [Feynman Lectures on Physics - Caltech](https://www.feynmanlectures.caltech.edu/)
 - [An Introduction to Modern Computational Physics](https://bkclark.github.io/IntroductionToComputationalPhysics/intro.html)
 - [Data Analysis for Physics](https://illinois-dap.github.io/DataAnalysisForPhysicists/intro.html)
